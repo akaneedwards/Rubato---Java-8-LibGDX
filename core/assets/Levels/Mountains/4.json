@@ -1,0 +1,178 @@
+{
+"width": 26.8,
+"height": 12.926666,
+"chapter": "mountains",
+"player": {
+	"x": 1.1533333,
+	"y": 4.04
+},
+"enemies": [
+	{
+		"type": "wyrm",
+		"x": 22.353333,
+		"y": 3.5733333
+	},
+	{
+		"type": "wyrm",
+		"x": 10.086667,
+		"y": 4.5733333
+	},
+	{
+		"type": "wyrm",
+		"x": 17.82,
+		"y": 8.106667
+	},
+	{
+		"type": "blob",
+		"x": 11.266666,
+		"y": 9
+	},
+	{
+		"type": "blob",
+		"x": 4.866667,
+		"y": 8.133333
+	},
+	{
+		"type": "blob",
+		"x": 8.066667,
+		"y": 8.666667
+	}
+],
+"platforms": [
+	{
+		"type": "mountains_c_b",
+		"x": 0.33333334,
+		"y": 2.6333334
+	},
+	{
+		"type": "mountains_c_b",
+		"x": 1,
+		"y": 2.6333334
+	},
+	{
+		"type": "mountains_c_b",
+		"x": 1.6666666,
+		"y": 2.6333334
+	},
+	{
+		"type": "mountains_c_b",
+		"x": 2.3333333,
+		"y": 2.6333334
+	},
+	{
+		"type": "mountains_c_b",
+		"x": 3,
+		"y": 2.6333334
+	},
+	{
+		"type": "mountains_c_b",
+		"x": 3.6666667,
+		"y": 2.6333334
+	},
+	{
+		"type": "mountains_c_b",
+		"x": 4.3333335,
+		"y": 2.6333334
+	},
+	{
+		"type": "mountains_r_b",
+		"x": 4.733333,
+		"y": 2.6333334
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 4.3333335,
+		"y": 3.3
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 3.6666667,
+		"y": 3.3
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 3,
+		"y": 3.3
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 0.33333334,
+		"y": 3.3
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 1,
+		"y": 3.3
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 1.6666666,
+		"y": 3.3
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 2.3333333,
+		"y": 3.3
+	},
+	{
+		"type": "mountains_r_t",
+		"x": 4.766667,
+		"y": 3.3
+	},
+	{
+		"type": "mountains_c_b",
+		"x": 26.133333,
+		"y": 3.3666666
+	},
+	{
+		"type": "mountains_c_b",
+		"x": 26.8,
+		"y": 3.3666666
+	},
+	{
+		"type": "mountains_l_b",
+		"x": 25.733334,
+		"y": 3.3666666
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 26.133333,
+		"y": 4.0333333
+	},
+	{
+		"type": "mountains_c_t",
+		"x": 26.8,
+		"y": 4.0333333
+	},
+	{
+		"type": "mountains_l_t",
+		"x": 25.7,
+		"y": 4.0333333
+	},
+	{
+		"type": "mountains_c_tb",
+		"x": 1.8,
+		"y": 8.433333
+	},
+	{
+		"type": "mountains_c_tb",
+		"x": 2.4666667,
+		"y": 8.433333
+	},
+	{
+		"type": "mountains_l_tb",
+		"x": 1.4,
+		"y": 8.433333
+	},
+	{
+		"type": "mountains_r_tb",
+		"x": 2.8666666,
+		"y": 8.433333
+	}
+],
+"checkpoint": {
+	"x": 2.2533333,
+	"y": 9.566667
+},
+"tooltips": []
+}

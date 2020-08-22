@@ -1,0 +1,13 @@
+[
+  {
+    "file": "altar.png",
+    "sensors": {
+      "vision": [0, 0, 16, 8, 0],
+      "center": [0, 0, 7, 8, 0],
+    },
+    "hitboxes": [],
+    "hurtboxes": [
+      [-0.28, -1.62, 2.5, 3, 0],
+    ],
+  }
+]

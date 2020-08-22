@@ -1,0 +1,34 @@
+[
+  {
+    "path": "Idle/",
+    "loop": true,
+  },
+  {
+    "path": "Run/",
+    "loop": true,
+  },
+  {
+    "path": "Rise/",
+    "loop": true,
+  },
+  {
+    "path": "Fall/",
+    "loop": true,
+  },
+  {
+    "path": "Jump/",
+    "loop": false,
+  },
+  {
+    "path": "Attack/",
+    "loop": false,
+  },
+  {
+    "path": "Dead/",
+    "loop": false,
+  },
+  {
+    "path": "End/",
+    "loop": false,
+  }
+]

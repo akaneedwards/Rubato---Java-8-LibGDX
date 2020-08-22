@@ -1,0 +1,66 @@
+[
+  {
+    "key": "forest",
+    "maps": [
+      "Levels/Forest/1.json",
+      "Levels/Forest/2.json",
+      "Levels/Forest/3.json",
+      "Levels/Forest/4.json",
+      "Levels/Forest/5.json",
+      "Levels/Forest/6.json",
+      "Levels/Forest/7.json",
+      "Levels/Forest/8.json",
+      "Levels/Forest/9.json",
+      "Levels/Forest/10.json",
+      "Levels/Completion/forest.json"
+    ],
+  },
+  {
+    "key": "plains",
+	  "maps": [
+      "Levels/Plains/1.json",
+      "Levels/Plains/2.json",
+      "Levels/Plains/3.json",
+      "Levels/Plains/4.json",
+      "Levels/Plains/5.json",
+      "Levels/Plains/6.json",
+      "Levels/Plains/7.json",
+      "Levels/Plains/8.json",
+      "Levels/Plains/9.json",
+	    "Levels/Plains/10.json",
+      "Levels/Completion/plains.json"
+	  ]
+  },
+  {
+    "key": "desert",
+    "maps": [
+      "Levels/Desert/1.json",
+      "Levels/Desert/2.json",
+      "Levels/Desert/3.json",
+      "Levels/Desert/4.json",
+      "Levels/Desert/5.json",
+      "Levels/Desert/6.json",
+      "Levels/Desert/7.json",
+      "Levels/Desert/8.json",
+      "Levels/Desert/9.json",
+      "Levels/Desert/10.json",
+      "Levels/Completion/desert.json"
+    ]
+  },
+  {
+    "key": "mountains",
+    "maps": [
+      "Levels/Mountains/1.json",
+      "Levels/Mountains/2.json",
+      "Levels/Mountains/3.json",
+      "Levels/Mountains/4.json",
+      "Levels/Mountains/5.json",
+      "Levels/Mountains/6.json",
+      "Levels/Mountains/7.json",
+      "Levels/Mountains/8.json",
+      "Levels/Mountains/9.json",
+      "Levels/Completion/mountains.json",
+      "Levels/end.json",
+    ],
+  },
+]

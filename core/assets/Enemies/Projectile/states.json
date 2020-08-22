@@ -1,0 +1,10 @@
+[
+  {
+    "path": "Active/",
+    "loop": true,
+  },
+  {
+    "path": "Suspended/",
+    "loop": true,
+  },
+]
